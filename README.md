@@ -6,4 +6,4 @@
  趣味でプログラミングをやっている
  
  
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
