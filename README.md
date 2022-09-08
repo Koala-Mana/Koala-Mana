@@ -4,6 +4,3 @@
   <img alt="github stats" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Koala-Mana&theme=onedark&show_icons=ture" />
 </p>
  趣味でプログラミングをやっている
- 
- 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
