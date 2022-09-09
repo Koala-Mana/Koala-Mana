@@ -12,5 +12,6 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Koala-Mana&style=flat-square&color=orange)
+![](https://img.shields.io/twitter/follow/koala2157?style=flat-square&color=blue)
 
  趣味でプログラミングをやっている
