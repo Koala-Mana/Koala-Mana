@@ -5,6 +5,7 @@
 </p>
 <p align="left"> 
   <img alt="summary card" height="150px"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077" />
+  <img alt="github count" src="https://komarev.com/ghpvc/?username=Koala-Mana&style=flat-square&color=green" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Koala-Mana&style=flat-square&color=green)
