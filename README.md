@@ -5,6 +5,4 @@
   <img alt="summary card" height="200px" width="800px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077)
-
  趣味でプログラミングをやっている
