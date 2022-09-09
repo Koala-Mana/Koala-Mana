@@ -10,6 +10,7 @@
   <img alt="github count" src="https://komarev.com/ghpvc/?username=Koala-Mana&style=flat-square&color=orange" />
   <img alt="github count" src="https://img.shields.io/twitter/follow/koala2157?style=flat-square&color=blue" />
 </p>
-  
- 趣味でプログラミングをやっている
 
+![](https://komarev.com/ghpvc/?username=Koala-Mana&style=flat-square&color=orange)
+
+ 趣味でプログラミングをやっている
