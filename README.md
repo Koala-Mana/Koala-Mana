@@ -6,5 +6,6 @@
 <p align="left"> 
   <img alt="summary card" height="150px"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077" />
 </p>
+![](https://komarev.com/ghpvc/?username=Koala-Mana&style=flat-square&color=green)
 
  趣味でプログラミングをやっている
