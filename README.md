@@ -1,6 +1,6 @@
 # Stats
 <p align="left"> 
-  <img alt="summary card" height="250px"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077" />
+  <img alt="summary card" height="200px"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077" />
 </p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koala-Mana&layout=compact&show_icons=true&theme=onedark" />
