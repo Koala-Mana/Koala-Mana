@@ -5,7 +5,7 @@
   <img alt="summary card" height="200px"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koala-Mana&theme=2077" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=Koala-Mana&style=flat&color=orange)
-![](https://img.shields.io/twitter/follow/koala2157?style=flat&color=blue)
+![](https://komarev.com/ghpvc/?username=Koala-Mana&style=for-the-badge&color=orange)
+![](https://img.shields.io/twitter/follow/koala2157?style=for-the-badge&color=blue)
 
  趣味でプログラミングをやっている
